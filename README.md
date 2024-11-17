@@ -1,5 +1,7 @@
 # DataCleaning-with-SQL
 
+
+
 ## 📋Project Overview
 
 Understanding global layoffs is key to analyzing workforce trends and their impact on industries. This project leverages SQL to clean and prepare layoff data by resolving issues like duplicates, missing values, and inconsistent formatting. The goal is to create a structured dataset that enables meaningful insights and supports business strategies, policy-making, and further analysis.
