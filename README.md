@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-- [📋Project Overview](#-project-overview)
+- [📋Project Overview](#project-overview)
   
 - [🗂Dataset Description](#dataset-description)
   
@@ -25,9 +25,11 @@
   
 
 ## 📋Project Overview
+
 Understanding global layoffs is key to analyzing workforce trends and their impact on industries. This project leverages SQL to clean and prepare layoff data by resolving issues like duplicates, missing values, and inconsistent formatting. The goal is to create a structured dataset that enables meaningful insights and supports business strategies, policy-making, and further analysis.
 
 ## 🗂Dataset Description
+
 The dataset provides detailed information about global layoffs, offering insights into workforce reductions across industries and locations. It includes the following columns:
 - **Company**: Name of the company that experienced layoffs.
 - **Location**: Specific city or region where the layoffs occurred.
@@ -40,10 +42,12 @@ The dataset provides detailed information about global layoffs, offering insight
 - **Funds_Raised_Millions**: Total funds raised by the company, in millions of dollars.
   
 ## 🛠Tools Used
+
 - MySQL, for data cleaning [Download here](https://www.mysql.com)
 - Excel, for data import [Download here](https://www.microsoft.com)
 
 ## 🔧Key Data Cleaning Steps
+
 1. Creating a Backup Table.
 2. Identifying Duplicates Using Common Table Expression (CTE).
 3. Standardizing Data Formats.
@@ -197,10 +201,11 @@ ALTER TABLE layoffs_staging2
 
 ## 📁Project Files
 
+[Data Cleaning Final Output.xlsx](https://github.com/user-attachments/files/17792729/Data.Cleaning.Final.Output.xlsx)
 
+😄
 
-
-
+💻
 
 
    
