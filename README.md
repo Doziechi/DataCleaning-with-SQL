@@ -1,29 +1,5 @@
 # DataCleaning-with-SQL
 
-## Table of Content
-
-- [📋Project Overview](#project-overview)
-  
-- [🗂Dataset Description](#dataset-description)
-  
-- [🛠Tools Used](#tools-used)
-  
-- [🔧Key Data Cleaning Steps](#key-data-cleaning-steps)
-   - [Creating a Backup Table](#creating-a-backup-table)
-   - [Identifying Duplicates Using Common Table Expression (CTE)](#identifying-duplicates-using-common-table-expression-(cte))
-   - [Standardizing Data Formats](#standardizing-data-formats)
-   - [Null Values and Blank Values](#null-values-and-blank-values)
-   - [Removing unnecessary columns and Rows](#removing-uneccessary-columns-and-rows)
-     
-- [📌Limitations](#limitations)
-
-- [📁Project Files](#project-files)
-
-
-
-
-  
-
 ## 📋Project Overview
 
 Understanding global layoffs is key to analyzing workforce trends and their impact on industries. This project leverages SQL to clean and prepare layoff data by resolving issues like duplicates, missing values, and inconsistent formatting. The goal is to create a structured dataset that enables meaningful insights and supports business strategies, policy-making, and further analysis.
